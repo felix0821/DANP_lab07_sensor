@@ -1,0 +1,4 @@
+#Fri Jul 01 01:33:06 CDT 2022
+base.0=D\:\\Proyectos\\Implementacion\\AndroidStudio\\_GitHub\\OrientationExample\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

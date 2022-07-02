@@ -1,0 +1,5 @@
+org/danp/orientationexample/BuildConfig.java
+ org.danp.orientationexample.BuildConfig
+org/danp/orientationexample/MainActivity.java
+ org.danp.orientationexample.MainActivity
+ org.danp.orientationexample.MainActivity$1
